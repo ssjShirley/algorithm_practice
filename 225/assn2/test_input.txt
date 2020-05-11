@@ -1,0 +1,13 @@
+17560
+0 add 10 3
+0 add 100 10
+0 renice 100 -1
+0 add 20 4
+0 renice 20 2
+2 renice 10 -5
+3 renice 100 -10
+6 renice 10 -10
+6 renice 100 -5
+9 add 10 2
+9 renice 20 -10
+11 renice 100 2
